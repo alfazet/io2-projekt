@@ -5,5 +5,7 @@
     <Project Path="src/Presentation/Presentation.csproj" />
     <Project Path="src/UseCases/UseCases.csproj" />
   </Folder>
-  <Folder Name="/tests/" />
+  <Folder Name="/tests/">
+    <Project Path="tests/ExampleTest/ExampleTest.csproj" Id="e2556abf-d2b6-4e4d-a100-7ebebfc24a72" />
+  </Folder>
 </Solution>
