@@ -1,0 +1,13 @@
+/home/antek/Main/repos/io2_projekt/build/linux/x64/debug/bundle/io2_projekt
+/home/antek/Main/repos/io2_projekt/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/antek/Main/repos/io2_projekt/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/antek/Main/repos/io2_projekt/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/antek/Main/repos/io2_projekt/build/linux/x64/debug/bundle/data/flutter_assets/shaders/stretch_effect.frag
+/home/antek/Main/repos/io2_projekt/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json
+/home/antek/Main/repos/io2_projekt/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/antek/Main/repos/io2_projekt/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/antek/Main/repos/io2_projekt/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/antek/Main/repos/io2_projekt/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/antek/Main/repos/io2_projekt/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/antek/Main/repos/io2_projekt/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/antek/Main/repos/io2_projekt/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf

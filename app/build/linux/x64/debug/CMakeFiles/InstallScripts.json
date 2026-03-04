@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/antek/Main/repos/io2_projekt/build/linux/x64/debug/cmake_install.cmake",
+		"/home/antek/Main/repos/io2_projekt/build/linux/x64/debug/flutter/cmake_install.cmake",
+		"/home/antek/Main/repos/io2_projekt/build/linux/x64/debug/runner/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
